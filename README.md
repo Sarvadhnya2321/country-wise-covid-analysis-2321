@@ -26,7 +26,7 @@ The goal is to understand:
 | `Analysis.R` | Main R script used to generate plots and the final PDF |
 | `country_wise_latest.csv` | Source dataset containing country-level COVID-19 statistics |
 | `plots_2321.pdf` | Final compiled PDF containing all visualizations |
-| `findings.md` | Detailed explanation and interpretation of each plot |
+| `Findings.md` | Detailed explanation and interpretation of each plot |
 
 ---
 
